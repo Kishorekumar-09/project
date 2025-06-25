@@ -1,3 +1,4 @@
 # project
 Rock Paper Scissors Game system
-my first project in git
+<br>
+This is my repository hit
